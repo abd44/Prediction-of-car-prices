@@ -4,12 +4,12 @@ Predicting Car Prices for Automobile industry to manufacture cars based on set o
 
 Steps Involved:
 
-#Business Understanding
+1.Business Understanding
 
-#Data Understanding
+2.Data Understanding
 
-#Data Preparation & EDA
+3.Data Preparation & EDA
 
-#Model Building 
+4.Model Building 
 
-#Model Evaluation
+5.Model Evaluation
